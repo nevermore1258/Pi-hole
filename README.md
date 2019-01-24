@@ -1,7 +1,4 @@
-# คำสั่งติดตั้งสคริปท์ รันตามลำดับ
+# คำสั่งติดตั้งสคริปท์ 
 
-1. wget https://raw.githubusercontent.com/nevermore1258/Pi-hole/master/Pi-hole.sh
+wget https://raw.githubusercontent.com/nevermore1258/Pi-hole/master/Pi-hole.sh && chmod +x Pi-hole.sh && ./Pi-hole.sh
 
-2. chmod +x Pi-hole.sh
-
-3. ./Pi-hole.sh
